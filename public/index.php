@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
     <meta name="theme-color" content="#FFC501"> 
     <title>M2U | Laporan Transaksi Maybank</title>
